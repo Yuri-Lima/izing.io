@@ -155,7 +155,7 @@ FACEBOOK_APP_ID='1554345554575413' # id do app criado na console do facebook
 
 Inicie o frontend (suponto que já possua instalado as cli do vue e quasar):
 ```bash
-quasar c && quasar d
+npx quasar c && quasar d
 ```
   
 ## Guia básico para produção (Ubuntu >= 18.04 VPS)

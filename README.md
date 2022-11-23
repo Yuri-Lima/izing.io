@@ -304,7 +304,7 @@ FACEBOOK_APP_ID='1554345554575413' # id do app criado na console do facebook
 
 Faça o build do front:
 ```bash
-quasar build -P -m pwa
+npx quasar build -P -m pwa
 ```
 
 ___
